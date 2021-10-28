@@ -7,8 +7,9 @@
   </p>
 <h2>Layout</h2>
   <p>
-    <img src="https://user-images.githubusercontent.com/82759865/139168835-5350d7a3-9888-43d5-a3b7-99c77f1f3fe0.gif"/>
+    <img src="https://user-images.githubusercontent.com/82759865/139170033-f61700f8-9dd6-4501-9607-a1ff1694706b.gif"/>
   </p>
+
 <h2>Tecnologias utilizadas</h2>
 
 <ul>
