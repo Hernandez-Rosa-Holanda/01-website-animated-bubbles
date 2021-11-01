@@ -3,7 +3,7 @@
 
   <h3>Animated bubbles website</h3> 
   <p>
-    Exercitando minhas habilidades em animação com CSS Css
+    Exercitando minhas habilidades em animação com CSS
   </p>
 <h2>Layout</h2>
   <p>
