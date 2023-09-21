@@ -3,7 +3,7 @@
 
   <h3>Animated bubbles website</h3> 
   <p>
-    Home - Site para um Agência de Design
+    Home - Site para uma Agência de Design
   </p>
 <h2>Layout</h2>
   <p>
